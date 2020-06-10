@@ -14,6 +14,12 @@ npm run serve
 ```
 npm run build
 ```
+### Start back end at APIProdutos repository
+
+``` 
+npm run dev
+```
+
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
